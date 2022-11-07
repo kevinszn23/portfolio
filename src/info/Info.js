@@ -87,7 +87,7 @@ export const info = {
             emoji: '🎮'
         },
         {
-            label: 'travelling',
+            label: 'traveling',
             emoji: '✈️'
         },
         {
