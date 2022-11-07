@@ -70,56 +70,56 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hi! I'm Kevin and I'm a Software Engineer with a background in healthcare. With a passion for fullstack development, it made sense for me to pivot into Software Engineering to express creative freedom and develop real world applications and I am loving it. After working in healthcare for a few years, it sharpened not only my attention to detail, but my autonomous skills as well as my collaborative skills which go hand-in-hand with Software Engineering. I've continued to develop these skills as I love tackling complex problems and solving them either independently or with a team. I aim to constantly grow my skillset and positively impact others!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['JavaScript', 'React', 'Python', 'PostgreSQL', 'Node.js', 'Django', 'MongoDB', 'ExpressJS', 'Git', 'GitHub', 'Heroku'],
+            exposedTo: ['Bulma', 'Bootstrap']
         }
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'going to the gym',
+            emoji: '🏋️'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'playing video games',
+            emoji: '🎮'
         },
         {
-            label: 'movies',
-            emoji: '🎥'
+            label: 'travelling',
+            emoji: '✈️'
         },
         {
-            label: 'cooking',
-            emoji: '🌶'
+            label: 'watching the NBA',
+            emoji: '🏀'
         }
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Streamify",
+            live: "https://this-is-streamify.herokuapp.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/brendonvan/This-Is-Streamify", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Earthbnb",
+            live: "https://earth-bnb.netlify.app/",
+            source: "https://github.com/kevinszn23/Project-3-Earthbnb-frontend",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "EZBay",
+            live: "https://ebay-django.herokuapp.com/",
+            source: "https://github.com/kevinszn23/Capstone-EZBay-Django",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Kombo Kards",
+            live: "https://kevinszn23.github.io/Project-1-Kombo-Kards/",
+            source: "https://github.com/kevinszn23/Project-1-Kombo-Kards",
             image: mock4
         },
         // {
