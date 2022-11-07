@@ -34,15 +34,15 @@ export const info = {
 
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in Boston'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "open to work"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "kevinwng23@gmail.com"
         }
     ],
     socials: [
