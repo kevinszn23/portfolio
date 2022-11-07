@@ -43,6 +43,10 @@ export const info = {
         {
             emoji: "📧",
             text: "kevinwng23@gmail.com"
+        },
+        {
+            emoji: "📱",
+            text: "617-347-7669"
         }
     ],
     socials: [
