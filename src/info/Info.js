@@ -70,7 +70,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hi! I'm Kevin and I'm a Software Engineer with a background in healthcare. With a passion for fullstack development, it made sense for me to pivot into Software Engineering to express creative freedom and develop real world applications and I am loving it. After working in healthcare for a few years, it sharpened not only my attention to detail, but my autonomous skills as well as my collaborative skills which go hand-in-hand with Software Engineering. I've continued to develop these skills as I love tackling complex problems and solving them either independently or with a team. I aim to constantly grow my skillset and positively impact others!",
+    bio: "Hi! I'm Kevin and I'm a Software Engineer with a background in healthcare. With a passion for fullstack development, it made sense for me to pivot into Software Engineering to express creative freedom and develop real world applications and I am loving it. I've continued to develop my autonomous and collaborative skills as I love tackling complex problems and solving them either independently or with a team. I aim to constantly grow my skillset and positively impact others!",
     skills:
         {
             proficientWith: ['JavaScript', 'React', 'Python', 'PostgreSQL', 'Node.js', 'Django', 'MongoDB', 'ExpressJS', 'Git', 'GitHub', 'Heroku'],
