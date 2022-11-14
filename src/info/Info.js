@@ -63,7 +63,7 @@ export const info = {
         },
         {
             link: "https://drive.google.com/file/d/1xshbiuTkvCZMayIMOSdPd2NuAjeVgglA/view?fbclid=IwAR3HvYz87L3Sp_sfExojovU05DwIyD_8FpaYeG0y08tr95CfgoEgdkn8Ywo&pli=1",
-            icon: "fa fa-file",
+            icon: "fa-solid fa-file",
             label: 'resume'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
