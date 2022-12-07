@@ -112,7 +112,7 @@ export const info = {
         },
         {
             title: "EZBay",
-            live: "https://ebay-django.herokuapp.com/",
+            live: "https://ezbay.fly.dev/",
             source: "https://github.com/kevinszn23/Capstone-EZBay-Django",
             image: mock3
         },
