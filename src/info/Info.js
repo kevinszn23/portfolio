@@ -99,21 +99,21 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
+            title: "Original G.S Contracting",
+            live: "https://original-gs-contracting.fly.dev/",
+            source: "https://github.com/saybeeali/Original-GS-Contracting",
+            image: mock1
+        },
+        {
             title: "Streamify",
             live: "https://streamify.fly.dev/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/brendonvan/This-Is-Streamify", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            image: mock2
         },
         {
             title: "Earthbnb",
             live: "https://earth-bnb.netlify.app/",
             source: "https://github.com/kevinszn23/Project-3-Earthbnb-frontend",
-            image: mock2
-        },
-        {
-            title: "EZBay",
-            live: "https://ezbay.fly.dev/",
-            source: "https://github.com/kevinszn23/Capstone-EZBay-Django",
             image: mock3
         },
         {
