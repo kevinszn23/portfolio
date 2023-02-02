@@ -121,12 +121,6 @@ export const info = {
             live: "https://kevinszn23.github.io/Project-1-Kombo-Kards/",
             source: "https://github.com/kevinszn23/Project-1-Kombo-Kards",
             image: mock4
-        },
-        // {
-        //     title: "Project 5",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock5
-        // }
+        }
     ]
 }
